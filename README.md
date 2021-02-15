@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
