@@ -17,7 +17,11 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
