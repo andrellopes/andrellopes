@@ -56,9 +56,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrellopes"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://facebook.com/andrellopes"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/facebook.svg" width="30px" alt="Facebook"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+5512981571400"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/andrellopes"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://t.me/andrellopes"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+5512981571400"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  
 </p>
 <br>
