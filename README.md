@@ -23,8 +23,6 @@
 
 [![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ### - Languages and Tools...
 
 <p align="center">
@@ -40,15 +38,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 
----
-
 ### - I'm currently...
 
 - Improving my JS skills.
 - Learning to develop Mobile-first web-apps.
 - Adding NoSQL to my skill set.
-
----
 
 </details>
 
