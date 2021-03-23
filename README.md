@@ -17,11 +17,11 @@
   
 <br>
   
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&theme=ayu-mirage&show_icons=true&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&theme=vision-friendly-dark&show_icons=true&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&theme=vision-friendly-dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=vision-friendly-dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
