@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Andre Lopes :wave:
@@ -17,11 +17,11 @@
   
 <br>
   
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&show_icons=true&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&theme=ayu-mirage&show_icons=true&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
