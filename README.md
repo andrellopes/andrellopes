@@ -57,5 +57,5 @@
   <a href="https://api.whatsapp.com/send?phone=+5512981571400"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp; 
   
 </p>
-<a href="https://nextjs.org/conf/tickets/oct21/Andrellopes?s=2">
+
 <br>
