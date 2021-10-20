@@ -23,11 +23,11 @@
   </div>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
     
    <div align="center">
-    <img  height="120em" src="https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg"/>
+    <img height="120em" src="https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg"/>
   </div>
   
   <br>
