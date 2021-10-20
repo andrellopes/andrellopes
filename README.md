@@ -15,34 +15,36 @@
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary> 
   
-<br>
-  
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&theme=ayu-mirage&show_icons=true&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=andrellopes&theme=ayu-mirage&show_icons=true&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### - Languages and Tools...
+  [![Andrellopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</p>
+  ### - Languages and Tools...
 
-### - I'm currently...
+  <p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  </p>
 
-- Improving my JS skills.
-- Learning to develop Mobile-first web-apps.
-- Adding NoSQL to my skill set.
+  ### - I'm currently...
+
+  - Improving my JS skills.
+  - Learning to develop Mobile-first web-apps.
+  - Adding NoSQL to my skill set.
+
+  ![Snake animation](https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
@@ -57,5 +59,3 @@
   <a href="https://api.whatsapp.com/send?phone=+5512981571400"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp; 
   
 </p>
-
-<br>
