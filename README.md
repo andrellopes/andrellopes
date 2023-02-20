@@ -27,14 +27,14 @@
   </div>
   
   <div align="center">
-     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/a0d46ead-541a-4195-98d1-91da917066ca.svg" alt="wakatime">
-     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/fe61bfd8-7572-44d6-90e6-4f36225461d3.svg" alt="wakatime">
+     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/a0d46ead-541a-4195-98d1-91da917066ca.svg" alt="pdvx-api">
+     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/fe61bfd8-7572-44d6-90e6-4f36225461d3.svg" alt="pdvx-app">
   </div>
   
   <div align="center">
      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/374cd8f7-161d-4bcf-bc00-f95a1dd875df.svg" alt="pdvx-mobile">
-     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/ab7d907a-99ab-4fbf-8093-e6357fa942e1.svg" alt="wakatime">
-     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/90470313-aebf-40af-910c-74a986f9dedc.svg" alt="wakatime">
+     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/ab7d907a-99ab-4fbf-8093-e6357fa942e1.svg" alt="pdvx-kds">
+     <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/90470313-aebf-40af-910c-74a986f9dedc.svg" alt="pdvx-senha">
   </div>
     
   <div align="center">
