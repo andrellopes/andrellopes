@@ -27,13 +27,24 @@
   </div>
   
   <div align="center">
-    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/a0d46ead-541a-4195-98d1-91da917066ca"><img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/a0d46ead-541a-4195-98d1-91da917066ca.svg" alt="wakatime"></a>
-    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/fe61bfd8-7572-44d6-90e6-4f36225461d3"><img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/fe61bfd8-7572-44d6-90e6-4f36225461d3.svg" alt="wakatime"></a>
+    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/a0d46ead-541a-4195-98d1-91da917066ca">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/a0d46ead-541a-4195-98d1-91da917066ca.svg" alt="wakatime">
+    </a>
+    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/fe61bfd8-7572-44d6-90e6-4f36225461d3">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/fe61bfd8-7572-44d6-90e6-4f36225461d3.svg" alt="wakatime">
+    </a>
   </div>
+  
   <div align="center">
-    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/374cd8f7-161d-4bcf-bc00-f95a1dd875df"><img             src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/374cd8f7-161d-4bcf-bc00-f95a1dd875df.svg" alt="pdvx-mobile"></a>
-   <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/ab7d907a-99ab-4fbf-8093-e6357fa942e1"><img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/ab7d907a-99ab-4fbf-8093-e6357fa942e1.svg" alt="wakatime"></a>
-    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/90470313-aebf-40af-910c-74a986f9dedc"><img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/90470313-aebf-40af-910c-74a986f9dedc.svg" alt="wakatime"></a>
+    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/374cd8f7-161d-4bcf-bc00-f95a1dd875df">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/374cd8f7-161d-4bcf-bc00-f95a1dd875df.svg" alt="pdvx-mobile">
+    </a>
+    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/ab7d907a-99ab-4fbf-8093-e6357fa942e1">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/ab7d907a-99ab-4fbf-8093-e6357fa942e1.svg" alt="wakatime">
+    </a>
+    <a href="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/90470313-aebf-40af-910c-74a986f9dedc">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832/project/90470313-aebf-40af-910c-74a986f9dedc.svg" alt="wakatime">
+    </a>
 </div>
     
    <div align="center">
@@ -68,5 +79,10 @@
   <a href="https://www.linkedin.com/in/andrellopes"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://t.me/andrellopes"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=%2B5512981571400?&text=Ola,"><img src="https://github.com/Andrellopes/andrellopes/blob/master/assets/svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp; 
-  
 </p>
+
+<div align="center">
+  <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
+      <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded since Mar 12 2020"/>
+  </a>
+</div>
