@@ -22,9 +22,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrellopes&layout=compact&hide_border=true&langs_count=7&theme=ayu-mirage"/>
   </div>
   
-  <div align="center">
+<!--   <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=andrellopes&theme=ayu-mirage&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
-  </div>
+  </div> -->
   
   <div align="center">
     <img height="120em" src="https://github.com/Andrellopes/andrellopes/blob/output/github-contribution-grid-snake.svg"/>
