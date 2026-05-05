@@ -1,6 +1,6 @@
 <div align="center">
 
-# allc
+# André Lopes
 
 Fullstack Developer • Flutter • Laravel • IoT
 
@@ -57,7 +57,7 @@ Docker • CI/CD • Git
 
 <div align="center">
 <a href="https://api.whatsapp.com/send?phone=%2B5512988543055">WhatsApp</a> • 
-<a href="mailto:allc.me@outlook.com">Email</a>
+<a href="mailto:andrellopes@live.com">Email</a>
 
 </div>
 
